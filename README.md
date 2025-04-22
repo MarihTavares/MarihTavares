@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=b2f2f7&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+repositório+:%29"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=e7d84b&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+repositório+:%29"/>
 </p>
 
-## <h1 align="center">Olá, me chamo Marina 😎</h1>
+## <h1 align="center" >Olá, me chamo Marina 😎</h1>
 
 <br>
 
